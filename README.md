@@ -1,6 +1,8 @@
 # Cloud-Native SD-WAN (CNWAN) Project
 
-The Cloud-Native SD-WAN project (CNWAN) bridges the gap between SD-WAN technologies and Cloud-Native applications running on Kubernetes
+The Cloud-Native SD-WAN project (CNWAN) bridges the gap between SD-WAN technologies and Cloud-Native applications running on Kubernetes.
+
+The documentation for the CNWAN project is a work in progress. Please contact us at [cnwan@cisco.com](mailto:cnwan@cisco.com) with any questions.
 
 ## Overview
 
