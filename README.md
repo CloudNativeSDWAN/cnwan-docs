@@ -4,6 +4,14 @@ The Cloud-Native SD-WAN project (CNWAN) bridges the gap between SD-WAN technolog
 
 The documentation for the CNWAN project is a work in progress. Please contact us at [cnwan@cisco.com](mailto:cnwan@cisco.com) with any questions.
 
+If you are new to the project a good place to start is by reading the [Overview](#overview) and/or checking some of the resources below. Once you are familiar with the project, feel free to explore the different components described in the [Architecture](#architecture). There is also some [Automation](https://github.com/CloudNativeSDWAN/cnwan-automation) available that should help bootstraping things.
+
+* "Cloud-Native SD-WAN: The WAN Your Kubernetes Applications Deserve" - Cisco Blogs [[post](https://blogs.cisco.com/networking/introducing-the-cloud-native-sd-wan-project)]
+* "Network, Please Evolve: Chapter 3, Stretching Out" - Cisco Keynote @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html?socialshare=lightbox_video1_keynote)]
+* CNWAN demo @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html#~demos-and-presentations)]
+* "CN-WAN: a Cloud Native (SD-)WAN for Microservice Applications" - Presentation at NSMCon EU 2020 [[video](https://www.youtube.com/watch?v=C28_WTyT-KI)]
+
+
 ## Overview
 
 Nowadays, access to applications hosted in Kubernetes across Wide Area Networks (WANs) is a standard pattern for Enterprise apps. At the same time, Software-Defined WAN (SD-WAN) technologies are becoming popular since they democratize WAN access patterns across the Internet through latency reduction, throughput improvement, and packet loss prevention. Unfortunately, there is not much integration between SD-WAN and Kubernetes, in most cases (if not all) Kubernetes and SD-WAN are like ships in the night.
