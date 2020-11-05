@@ -18,7 +18,7 @@ Nowadays, access to applications hosted in Kubernetes across Wide Area Networks 
 
 Interestingly, most SD-WAN solutions offer APIs that allow to programmatically influence how the traffic is handled over the WAN. This enables interesting opportunities for automation and application optimization. There is an opportunity to pair the declarative nature of Kubernetes with the programmable nature of modern SD-WAN solutions to automatically optimize application experience over the WAN.
 
-![CNWAN Integration](https://raw.githubusercontent.com/CloudNativeSDWAN/cnwan-docs/master/img/cnwan-overview.png)
+![CNWAN Integration](img/cnwan-overview.png)
 
 With that goal, the Cloud-Native SD-WAN (CNWAN) project offers a reference implementation for how SD-WAN controllers can use Kubernetes application metadata to optimize application WAN traffic and link Kubernetes application attributes with SD-WAN network capabilities. 
 
@@ -28,7 +28,7 @@ The CNWAN project presents DevOps teams with the possibility to adapt their work
 
 ## Architecture
 
-![CNWAN Architecture](https://raw.githubusercontent.com/CloudNativeSDWAN/cnwan-docs/master/img/cnwan-arch.png)
+![CNWAN Architecture](img/cnwan-arch.png)
 
 The CNWAN project is composed of three main components that together enable the integration between Kubernetes and SD-WAN:
 
