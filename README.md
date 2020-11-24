@@ -4,12 +4,32 @@ The Cloud-Native SD-WAN project (CN-WAN) bridges the gap between SD-WAN technolo
 
 The documentation for the CN-WAN project is a work in progress. Please contact us at [cnwan@cisco.com](mailto:cnwan@cisco.com) with any questions.
 
-If you are new to the project a good place to start is by reading the [Overview](#overview) and/or checking some of the resources below. Once you are familiar with the project, feel free to explore the different components described in the [Architecture](#architecture). There is also some [Automation](https://github.com/CloudNativeSDWAN/cnwan-automation) available that should help bootstrap things.
+If you are new to the project a good place to start is by reading the [Overview](#overview) and/or checking some of the [Resources](#resources) below. Once you are familiar with the project, feel free to explore the different components described in the [Architecture](#architecture). There is also some [Automation](https://github.com/CloudNativeSDWAN/cnwan-automation) available that should help bootstrap things.
 
-* "Cloud-Native SD-WAN: The WAN Your Kubernetes Applications Deserve" - Cisco Blogs [[post](https://blogs.cisco.com/networking/introducing-the-cloud-native-sd-wan-project)]
-* "Network, Please Evolve: Chapter 3, Stretching Out" - Cisco Keynote @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html?socialshare=lightbox_video1_keynote)]
-* CN-WAN demo @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html#~demos-and-presentations)]
-* "CN-WAN: a Cloud Native (SD-)WAN for Microservice Applications" - Presentation at NSMCon EU 2020 [[video](https://www.youtube.com/watch?v=C28_WTyT-KI)]
+## Resources
+
+### Talks
+
+* [Nov 2020] "Cloud Native & SD-WAN: Improving K8s Application Experience Over SD-WAN" - Breakout Session @ KubeCon NA 2020 [[slides](https://static.sched.com/hosted_files/kccncna20/64/KubeConNA2020_CNWAN.pdf)]
+* [Aug 2020] "Network, Please Evolve: Chapter 3, Stretching Out" - Cisco Keynote @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html?socialshare=lightbox_video1_keynote)]
+* [Aug 2020] "CN-WAN: a Cloud Native (SD-)WAN for Microservice Applications" - Talk @ NSMCon EU 2020 [[video](https://www.youtube.com/watch?v=C28_WTyT-KI)]
+
+### Webinar/Demos
+
+* [Nov 2020] "Cloud Native SD-WAN: A Look Under the Hood" - Cisco Booth Video @ KubeCon NA 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-north-america.html?dtid=osscdc000283#~demos)]
+* [Oct 2020] "Introduction to Cloud Native SD-WAN" - Cisco Webinar [[video](https://events-cisco.webex.com/recordingservice/sites/events-cisco/recording/d4e187872ee849099283aa49981c9787/playback)]
+* [Aug 2020] "CN-WAN: The WAN Your Kubernetes Applications Deserve" - Cisco Booth Demo @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html#~demos-and-presentations)]
+
+### Articles/Blogposts
+
+* [Nov 2020] "SD-WAN and Kubernetes: It's Time to Play Together for Better Application Experience" - VMblog [[post](https://vmblog.com/archive/2020/11/04/sd-wan-and-kubernetes-it-s-time-to-play-together-for-better-application-experience.aspx)]
+* [Aug 2020] "Cloud Native SD-WAN: The WAN Your Kubernetes Applications Deserve" - Cisco Blogs [[post](https://blogs.cisco.com/networking/introducing-the-cloud-native-sd-wan-project)]
+
+### News Coverage
+
+* [Nov 2020] "Cisco Project Bridges Kubernetes and SD-WAN to Speed Microservice Messaging" - The New Stack [[post](https://thenewstack.io/cisco-project-bridges-kubernetes-and-sd-wan-to-speed-microservice-messaging/)]
+* [Aug 2020] "Cisco CN-WAN Smashes Together SD-WAN and Kubernetes" - SDx Central [[post](https://www.sdxcentral.com/articles/news/cisco-cn-wan-smashes-together-sd-wan-and-kubernetes/2020/08/)]
+* [Aug 2020] "Cisco open-source code boosts performance of Kubernetes apps over SD-WAN" - NetworkWorld [[post](https://www.networkworld.com/article/3572310/cisco-open-source-code-boosts-performance-of-kubernetes-apps-over-sd-wan.html)]
 
 
 ## Overview
