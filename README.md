@@ -10,7 +10,7 @@ If you are new to the project a good place to start is by reading the [Overview]
 
 ### Talks
 
-* [Nov 2020] "Cloud Native & SD-WAN: Improving K8s Application Experience Over SD-WAN" - Breakout Session @ KubeCon NA 2020 [[slides](https://static.sched.com/hosted_files/kccncna20/64/KubeConNA2020_CNWAN.pdf)]
+* [Nov 2020] "Cloud Native & SD-WAN: Improving K8s Application Experience Over SD-WAN" - Breakout Session @ KubeCon NA 2020 [[video](https://www.youtube.com/watch?v=-sWVNFk6tCo)] [[slides](https://static.sched.com/hosted_files/kccncna20/64/KubeConNA2020_CNWAN.pdf)]
 * [Aug 2020] "Network, Please Evolve: Chapter 3, Stretching Out" - Cisco Keynote @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html?socialshare=lightbox_video1_keynote)]
 * [Aug 2020] "CN-WAN: a Cloud Native (SD-)WAN for Microservice Applications" - Talk @ NSMCon EU 2020 [[video](https://www.youtube.com/watch?v=C28_WTyT-KI)]
 
@@ -31,6 +31,10 @@ If you are new to the project a good place to start is by reading the [Overview]
 * [Aug 2020] "Cisco CN-WAN Smashes Together SD-WAN and Kubernetes" - SDx Central [[post](https://www.sdxcentral.com/articles/news/cisco-cn-wan-smashes-together-sd-wan-and-kubernetes/2020/08/)]
 * [Aug 2020] "Cisco open-source code boosts performance of Kubernetes apps over SD-WAN" - NetworkWorld [[post](https://www.networkworld.com/article/3572310/cisco-open-source-code-boosts-performance-of-kubernetes-apps-over-sd-wan.html)]
 
+### Labs
+
+* [Nov 2020] "Cisco SD-WAN Cloud Hub with Google Cloud" - Google Qwiklabs [[video](https://events-cisco.webex.com/recordingservice/sites/events-cisco/recording/95e3e1d2130c499daef261a5c6296716/playback)] [[lab](https://google.qwiklabs.com/catalog_lab/3204?qlcampaign=1m-developercom-71)] 
+(Lab shows some of the features of CN-WAN using Cisco Viptela SD-WAN and Google Cloud Service Directory)
 
 ## Overview
 
