@@ -28,6 +28,7 @@ If you are new to the project a good place to start is by reading the [Overview]
 ### News Coverage
 
 * [Nov 2020] "Cisco Project Bridges Kubernetes and SD-WAN to Speed Microservice Messaging" - The New Stack [[post](https://thenewstack.io/cisco-project-bridges-kubernetes-and-sd-wan-to-speed-microservice-messaging/)]
+<!-- markdown-link-check-disable-next-line -->
 * [Aug 2020] "Cisco CN-WAN Smashes Together SD-WAN and Kubernetes" - SDx Central [[post](https://www.sdxcentral.com/articles/news/cisco-cn-wan-smashes-together-sd-wan-and-kubernetes/2020/08/)]
 * [Aug 2020] "Cisco open-source code boosts performance of Kubernetes apps over SD-WAN" - NetworkWorld [[post](https://www.networkworld.com/article/3572310/cisco-open-source-code-boosts-performance-of-kubernetes-apps-over-sd-wan.html)]
 
