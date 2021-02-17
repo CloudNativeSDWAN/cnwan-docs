@@ -10,6 +10,7 @@ If you are new to the project a good place to start is by reading the [Overview]
 
 ### Talks
 
+* [Feb 2021] "Optimizing External Kubernetes Traffic with Cloud Native SD-WAN" - SDN devroom @ FOSDEM 2021 [[video](https://video.fosdem.org/2021/D.sdn/sdn_k8s_cloud_native.mp4)] [[slides](https://fosdem.org/2021/schedule/event/sdn_k8s_cloud_native/attachments/slides/4508/export/events/attachments/sdn_k8s_cloud_native/slides/4508/CNWAN_FOSDEM21.pdf)]
 * [Nov 2020] "Cloud Native & SD-WAN: Improving K8s Application Experience Over SD-WAN" - Breakout Session @ KubeCon NA 2020 [[video](https://www.youtube.com/watch?v=-sWVNFk6tCo)] [[slides](https://static.sched.com/hosted_files/kccncna20/64/KubeConNA2020_CNWAN.pdf)]
 * [Aug 2020] "Network, Please Evolve: Chapter 3, Stretching Out" - Cisco Keynote @ KubeCon EU 2020 [[video](https://www.cisco.com/c/en/us/training-events/events/kubecon-europe.html?socialshare=lightbox_video1_keynote)]
 * [Aug 2020] "CN-WAN: a Cloud Native (SD-)WAN for Microservice Applications" - Talk @ NSMCon EU 2020 [[video](https://www.youtube.com/watch?v=C28_WTyT-KI)]
@@ -22,6 +23,7 @@ If you are new to the project a good place to start is by reading the [Overview]
 
 ### Articles/Blogposts
 
+* [Feb 2021] "SD-WAN in the Age of Kubernetes and the Cloud Native SD-WAN Project" - MEF [[post](https://www.mef.net/sd-wan-in-the-age-of-kubernetes-and-the-cloud-native-sd-wan-project-highlights-from-mef-3-0-poc-showcase-2021/)]
 * [Nov 2020] "SD-WAN and Kubernetes: It's Time to Play Together for Better Application Experience" - VMblog [[post](https://vmblog.com/archive/2020/11/04/sd-wan-and-kubernetes-it-s-time-to-play-together-for-better-application-experience.aspx)]
 * [Aug 2020] "Cloud Native SD-WAN: The WAN Your Kubernetes Applications Deserve" - Cisco Blogs [[post](https://blogs.cisco.com/networking/introducing-the-cloud-native-sd-wan-project)]
 
