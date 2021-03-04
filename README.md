@@ -31,6 +31,7 @@ If you are new to the project a good place to start is by reading the [Overview]
 
 ### News Coverage
 
+<!-- markdown-link-check-disable-next-line -->
 * [Feb 2021] "Cloud-Native SD-WAN and the New Model for Application-Optimized Networking" - SDx Central [[post](https://www.sdxcentral.com/articles/sponsored/syndicated/cloud-native-sd-wan/2021/02/)]
 * [Nov 2020] "Cisco Project Bridges Kubernetes and SD-WAN to Speed Microservice Messaging" - The New Stack [[post](https://thenewstack.io/cisco-project-bridges-kubernetes-and-sd-wan-to-speed-microservice-messaging/)]
 <!-- markdown-link-check-disable-next-line -->
